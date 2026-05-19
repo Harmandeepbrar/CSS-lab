@@ -11,11 +11,11 @@
 
 ## Member Contributions:
 
-### Name 1:
+### HArmandeep Brar:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on sections, images of html and css color selection.
 
 ### Name 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for making references and css creation ideas.
 
